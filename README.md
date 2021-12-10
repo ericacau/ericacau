@@ -2,11 +2,13 @@
 
 Currently working on:
 - Social Network Analysis project 
-  >> ![80%](https://progress-bar.dev/80)
+  > ![80%](https://progress-bar.dev/80)
 - Laboratory of Data Science project
+  > ![60%](https://progress-bar.dev/60)
 - Distributed Data Analysis and Mining project
+  > ![55%](https://progress-bar.dev/55)
 - Personal portfolio 
-
+  > ![40%](https://progress-bar.dev/40)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X092BO)
 
