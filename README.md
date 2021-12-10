@@ -1,7 +1,8 @@
 ### Hello world! 👋
 
 Currently working on:
-- Social Network Analysis project ➡ ![80%](https://progress-bar.dev/80)
+- Social Network Analysis project 
+  * ![80%](https://progress-bar.dev/80)
 - Laboratory of Data Science project
 - Distributed Data Analysis and Mining project
 - Personal portfolio 
