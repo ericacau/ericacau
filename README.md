@@ -6,7 +6,7 @@ Currently working on:
 - Laboratory of Data Science project
   > ![60%](https://progress-bar.dev/100)
 - Distributed Data Analysis and Mining project
-  > ![55%](https://progress-bar.dev/70)
+  > ![55%](https://progress-bar.dev/100)
 - Personal portfolio 
   > ![40%](https://progress-bar.dev/40)
 
