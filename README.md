@@ -3,16 +3,13 @@
 Currently working on:
 - Social Network Analysis project 
   > ![80%](https://progress-bar.dev/80)
-- Laboratory of Data Science project
-  > ![60%](https://progress-bar.dev/100)
-- Distributed Data Analysis and Mining project
-  > ![55%](https://progress-bar.dev/100)
 - Personal portfolio 
   > ![40%](https://progress-bar.dev/40)
+- Grafica 3D per i beni culturali
+  > ![0%](https://progress-bar.dev/0)
+- Scientific & Large Data Visualization
+  > ![0%](https://progress-bar.dev/0)
 
-What's next: 
-- Scientific and Large Data Visualization project website
-- G3D project website
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X092BO)
 
