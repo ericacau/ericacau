@@ -1,8 +1,6 @@
 ### Hello world! 👋
 
 Currently working on:
-- Social Network Analysis project 
-  > ![85%](https://progress-bar.dev/95)
 - Personal portfolio 
   > ![40%](https://progress-bar.dev/40)
 - Grafica 3D per i beni culturali
