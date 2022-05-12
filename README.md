@@ -5,8 +5,8 @@ Currently working on:
   > ![40%](https://progress-bar.dev/40)
 - Grafica 3D per i beni culturali
   > ![0%](https://progress-bar.dev/0)
-- Scientific & Large Data Visualization
-  > ![0%](https://progress-bar.dev/0)
+- Text Analytics
+- > ![0%](https://progress-bar.dev/0)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X092BO)
