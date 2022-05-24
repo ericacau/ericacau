@@ -3,9 +3,9 @@
 Currently working on:
 - Personal portfolio 
   > ![40%](https://progress-bar.dev/40)
-- Grafica 3D per i beni culturali
-  > ![0%](https://progress-bar.dev/0)
 - Text Analytics
+  > ![10%](https://progress-bar.dev/0)
+- Grafica 3D per i beni culturali
   > ![0%](https://progress-bar.dev/0)
 
 
