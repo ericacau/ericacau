@@ -1,5 +1,4 @@
 
-<p align = "center"> [Erica Cau](https://lyereth.github.io/)</p>
 
 
 ### Hello world! 👋
