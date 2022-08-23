@@ -1,5 +1,5 @@
 
-<p align = "center">#I'm [Erica Cau](https://lyereth.github.io/)</p>
+<p align = "center"> # I'm [Erica Cau](https://lyereth.github.io/)</p>
 
 
 ### Hello world! 👋
